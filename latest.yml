@@ -1,8 +1,8 @@
-version: 9.0.3
+version: 1.0.3
 files:
-  - url: selfServiceTerminals Setup 9.0.3.exe
-    sha512: JnXgmt+LfgfirVGHoQnzfr3z7tLhxZEeHlC/FbDR0UwHHwmXbNwAyVDLBFWtUg9eSNWdVlu+svC99ME6ybNjrA==
-    size: 97251601
-path: selfServiceTerminals Setup 9.0.3.exe
-sha512: JnXgmt+LfgfirVGHoQnzfr3z7tLhxZEeHlC/FbDR0UwHHwmXbNwAyVDLBFWtUg9eSNWdVlu+svC99ME6ybNjrA==
-releaseDate: '2019-03-15T08:49:54.339Z'
+  - url: selfServiceTerminals Setup 1.0.3.exe
+    sha512: 8pTqB0RMWvxo3NjFhk3fD3qlY6iYwZxtELoXnl3MthnVh2BLIZm8ZhMDPrxP2rBSfKtDyFm2CksCWpztGuCL7A==
+    size: 97226474
+path: selfServiceTerminals Setup 1.0.3.exe
+sha512: 8pTqB0RMWvxo3NjFhk3fD3qlY6iYwZxtELoXnl3MthnVh2BLIZm8ZhMDPrxP2rBSfKtDyFm2CksCWpztGuCL7A==
+releaseDate: '2019-03-20T02:22:39.351Z'

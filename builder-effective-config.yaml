@@ -7,9 +7,6 @@ extraResources:
   - static
 files:
   - dist/electron/**/*
-nsis:
-  oneClick: false
-  allowToChangeInstallationDirectory: true
 publish:
   - provider: generic
     url: 'http://127.0.0.1:8888/'
